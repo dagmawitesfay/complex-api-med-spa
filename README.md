@@ -1,6 +1,6 @@
 # Med Spa Ingredient Check
 
-A small browser app for checking skincare product ingredients.
+A small app for checking skincare product ingredients.
 Enter a product barcode to look up its product details, review its listed ingredients, and see chemical information for ingredients on the app's watch list.
 
 ## Demo
