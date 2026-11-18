@@ -6,6 +6,7 @@ Enter a product barcode to look up its product details, review its listed ingred
 ## Demo
 
 ![Allergen Check demo](image/med-spa.png)
+https://dagmawitesfay.github.io/complex-api-med-spa/
 
 ## Use
 
